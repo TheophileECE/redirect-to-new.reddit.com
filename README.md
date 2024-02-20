@@ -1,7 +1,7 @@
 # Reddit Redirect Tampermonkey Script
 
 ## Description
-This Tampermonkey script automatically redirects your browsing from `reddit.com` to `new.reddit.com`. If you prefer the new Reddit interface and find yourself frequently typing in `new.reddit.com`, this script simplifies your browsing experience by automatically redirecting you to the new interface.
+This Tampermonkey script automatically redirects your browsing from `reddit.com` to `new.reddit.com`. If you prefer the new Reddit (well, old now I guess) interface and find yourself frequently typing in `new.reddit.com`, this script simplifies your browsing experience by automatically redirecting you to the new interface.
 
 ## Installation
 1. Install the Tampermonkey browser extension for your respective browser (available for Chrome, Firefox, Safari, Opera, etc.).
